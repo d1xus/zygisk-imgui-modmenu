@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "imgui_modmenu"
+    moduleLibraryName = "d1xus_dlc"
     magiskModuleId = "zygisk_imgui_modmenu"
-    moduleName = "ImGui ModMenu"
-    moduleAuthor = "AKNoryx28"
-    moduleDescription = "ImGui android menu."
+    moduleName = "d1xus dlc"
+    moduleAuthor = "d1xus"
+    moduleDescription = "Polygon Arena (com.polygon.arena) mod menu"
     moduleVersion = "v1.0.0"
     moduleVersionCode = 1
 }
